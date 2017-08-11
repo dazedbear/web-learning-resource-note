@@ -1,3 +1,17 @@
-# My Awesome Book
+# Web 學習資源筆記
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+這是一本簡要的Web技術筆記，包含兩個部分：
+
+1. 彙整線上資源，包含教學文章、實用工具、文件等。
+2. 重點keyword提點，深入的技術細節請自行參閱各項resource。
+
+### 緣起
+
+網路上Web的學習資源豐富，但經常是片段、重複、甚至是過時錯誤的，很容易讓學習者迷失在品質參差不齊的訊息海中，增加學習的時間與成本。因此，希望透過彙整品質優良的資源、核心的關鍵字，迅速掌握學習路徑，省去「重複搜尋」這種routine的造輪子功夫。
+
+### 協作
+
+歡迎參與本書的維護！
+
+
+
