@@ -11,5 +11,5 @@
 
 ### 協作
 
-歡迎參與本書的維護！本書以各Topic區分頁面，並附加上相關的tags以方便搜尋。
+歡迎參與本書的維護！本書依循\[Develop\]\(https://github.com/kamranahmedse/developer-roadmap\)的架構，以每個Topic Node區分頁面，並附加上相關的tags，歡迎clone並匯入支援markdown的筆記軟體方便查找。
 
